@@ -6,7 +6,7 @@ function Navbar(){
         <nav className="navbar">
             <div className="navbar-brand">
                 <img src="punk.jpg" alt="Logo" className="Logo"/>
-                <Link to="/">MOVIEPHILE</Link>
+                <Link to="/" className="brand">MOVIEPHILE</Link>
             </div>
             <div className="navbar-links">
                 <Link to="/" className="nav-link">Home</Link>

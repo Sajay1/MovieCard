@@ -10,7 +10,9 @@
   }
   
   .movie-card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-10px);
+    transform: scaleY(50px);
+    transform: scaleX(50px);
   }
   
   .movie-poster {
